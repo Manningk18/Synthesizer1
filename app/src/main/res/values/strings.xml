@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Synthesizer</string>
+    <string name="aButton">First Button</string>
+    <string name="bButton">Second Button</string>
+    <string name="bbButton">Third Button</string>
+    <string name="cButton">Fourth Button</string>
+    <string name="csButton">Fifth Button</string>
+    <string name="dButton">Sixth Button</string>
+    <string name="dsButton">Seventh Button</string>
+    <string name="eButton">Eighth Button</string>
+    <string name="fButton">Ninth Button</string>
+    <string name="gButton">Tenth Button</string>
+    <string name="gsButton">Eleventh Button</string>
+    <string name="higheButton">Twelfth Button</string>
+    <string name="highfButton">Thirteenth Button</string>
+    <string name="highfsButton">Fourteenth Button</string>
+    <string name="highgButton">Fifteenth Button</string>
+    <string name="mchallenge1">mChallenge1</string>
+    <string name="mchallenge2">mChallenge2</string>
+    <string name="mchallenge3">mChallenge3</string>
+    <string name="mchallenge4">mChallenge4</string>
+</resources>
